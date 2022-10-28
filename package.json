@@ -1,0 +1,18 @@
+{
+  "name": "com.ylunha.unity-gameplay-zone-2d",
+  "version": "1.0.0",
+  "displayName": "Gameplay Zone 2D",
+  "description": "Unity component 'Gameplay Zone'. Controls the Camera size.",
+  "unity": "2020.1",
+  "dependencies": {},
+  "keywords": [
+    "camera",
+    "gameplay",
+    "2D"
+  ],
+  "author": {
+    "name": "Yurii Lunha",
+    "email": "iurylunga@gmail.com",
+    "url": "https://github.com/YLUNHA"
+  }
+}
