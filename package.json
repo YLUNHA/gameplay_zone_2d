@@ -1,6 +1,6 @@
 {
   "name": "com.ylunha.unity-gameplay-zone-2d",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Gameplay Zone 2D",
   "description": "Unity component 'Gameplay Zone'. Controls the Camera size.",
   "unity": "2020.1",
